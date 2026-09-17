@@ -77,7 +77,7 @@ land-auction-platform/
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/land-auction-platform.git
+git clone https://github.com/code-4fnan/LandAuction.git
 cd land-auction-platform
 
 ```
