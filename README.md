@@ -2,6 +2,11 @@
 
 **Real-time land auctions on a map, built with Streamlit.**
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://landauction-skrywtozwgts399ljeegtj.streamlit.app)
+
+**🔗 Live demo: [landauction-skrywtozwgts399ljeegtj.streamlit.app](https://landauction-skrywtozwgts399ljeegtj.streamlit.app)**:
+click **Sign in → Explore with the demo account** to start bidding straight away.
+
 Sellers trace a parcel's boundary on a satellite map and start a timed auction. Buyers
 browse parcels on the map, open a live auction room, and bid against each other. The room
 updates every few seconds, so rival bids appear without a page reload.
