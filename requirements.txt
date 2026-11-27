@@ -1,0 +1,11 @@
+streamlit>=1.50,<2
+streamlit-folium>=0.22
+folium>=0.17
+SQLAlchemy>=2.0,<2.1
+bcrypt>=4.1
+pandas>=2.2
+plotly>=5.20
+tzdata>=2024.1
+Pillow>=10.0
+# Only needed if you set DATABASE_URL to Postgres:
+# psycopg[binary]>=3.2
