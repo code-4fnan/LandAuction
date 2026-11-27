@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="40" viewBox="0 0 220 40">
+  <g transform="translate(2 4)">
+    <path d="M4 22 L13 6 L27 4 L32 18 L22 30 L8 30 Z" fill="#1E5B3C"/>
+    <path d="M4 22 L13 6 L27 4 L32 18 L22 30 L8 30 Z" fill="none" stroke="#C9973B" stroke-width="2" stroke-linejoin="round"/>
+    <circle cx="18" cy="17" r="4.2" fill="#F7F4EC"/>
+    <circle cx="18" cy="17" r="1.8" fill="#C9973B"/>
+  </g>
+  <text x="44" y="28" font-family="'DM Serif Display', Georgia, 'Times New Roman', serif" font-size="24" fill="#14201A">Land<tspan fill="#1E5B3C" font-style="italic">Auction</tspan></text>
+</svg>

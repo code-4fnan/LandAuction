@@ -1,9 +1,16 @@
 # Environments
 venv/
+.venv/
 env/
 __pycache__/
+*.pyc
+.pytest_cache/
+
+# Local data and secrets
+data/
+.env
+.streamlit/secrets.toml
 
 # Mac/Windows system files
 .DS_Store
 Thumbs.db
-.env
